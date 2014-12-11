@@ -29,6 +29,7 @@ public class HomeController {
 		System.out.println("Gmail");
 		System.out.println("Naver");
 		System.out.println("Gmail2");
+		System.out.println("Gmail3");
 		Date date = new Date();
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
 		
